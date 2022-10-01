@@ -234,14 +234,4 @@ File Name|Task Name|Task Description
 [models/amenity.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/amenity.py), [models/place.py](https://github.com/monoprosito/AirBnB_clone_v2/blob/master/models/place.py)|10. DBStorage - Amenity... and BOOM!|Update Amenity: (models/amenity.py)
 
 
----
-## Authors
-
-- Santiago Arboleda L. [@msarboledal](https://twitter.com/msarboledal)
-- Juan David Restrepo Z. [@jdrestre](https://twitter.com/jdrestre)
-- Miranda Evans miranda.r.evans@gmail.com
-- Kevin Yook kevin.yook@holbertonschool.com
-
-
-
 ![N|Solid](https://www.holbertonschool.com/holberton-logo.png) ![N|Solid](https://intranet.hbtn.io/assets/holberton-logo-coral-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png)
